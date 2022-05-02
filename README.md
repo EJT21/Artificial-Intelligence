@@ -1,1 +1,1 @@
-# This Repository holds my decison tree project for my Aritifical Intellgence class
+### This Repositiory holds code from my Ariticifal Intelligence class. 
